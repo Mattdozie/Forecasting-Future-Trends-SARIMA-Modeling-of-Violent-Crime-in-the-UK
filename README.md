@@ -25,6 +25,9 @@ Filtered and extracted data subsets were transformed into Pandas dataframes to f
 ### Time Series Analysis
 Utilizing time series modeling, the project assessed claims regarding UK crime rates. Time series plots, decomposition, and statistical tests were employed to establish stationarity. Augmented Dickey-Fuller test and autocorrelation analysis guided model parameter determination for the Seasonal ARIMA model.
 
+![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/e18550d5-275b-4a5c-9361-20db3e01779b)
+
+
 ### Seasonal ARIMA Model
 The Seasonal ARIMA model, designed to manage seasonality in time series data, was applied for forecasting UK crime rates. Despite its simplicity and interpretability, SARIMA's requirement for significant data amounts and assumption of linear relationships were noted limitations.
 
