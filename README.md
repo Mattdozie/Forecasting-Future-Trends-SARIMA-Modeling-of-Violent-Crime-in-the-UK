@@ -67,6 +67,14 @@ The model diagnostic evaluates the residual training data to assess linearity an
 
 ### Model Prediction
 
+![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/90b3986d-0cbc-45c1-b84b-e758972eadc0)
+
+The depicted plot illustrates model predictions. The forecasted data (in orange) closely resembles the original/raw data (in blue).
+
+![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/faeaa9ef-89d1-44a4-8b4c-526f853a6a74)
+
+The displayed plot depicts the model's forecast extending two years beyond the original data timeframe.
+
 ## Report & Codes
 The final [Report and codes for this project can be found HERE](insert_link_here)
 
