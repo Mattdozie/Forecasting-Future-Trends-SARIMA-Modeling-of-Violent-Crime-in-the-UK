@@ -37,7 +37,7 @@ The dataset comprising 65,078,250 rows and 12 columns, collected from December 2
 ### Data Extraction
 Filtered and extracted data subsets were transformed into Pandas dataframes to facilitate conversion of string date types to datetime, enabling indexation for time series analysis.
 
-[Find the Data for this project HERE](https://data.police.uk/)
+Find the Data for this project [HERE](https://data.police.uk/)
 
 ### Time Series Analysis
 A time series analysis was conducted to evaluate crime rate trends in the UK. The analysis revealed a decreasing trend in violent crime rates over time, with occasional spikes. A scatter plot further corroborates this finding, illustrating a gradual decline in violent crime occurrences over the evaluated period, punctuated by sporadic spikes in certain months.
@@ -76,6 +76,6 @@ The depicted plot illustrates model predictions. The forecasted data (in orange)
 The displayed plot depicts the model's forecast extending two years beyond the original data timeframe.
 
 ## Report & Codes
-The final [Report and codes for this project can be found HERE](insert_link_here)
+The final Report and codes for this project can be found [HERE]([insert_link_here](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/blob/main/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK-%20Codes.ipynb)https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/blob/main/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK-%20Codes.ipynb)
 
 Plot above shows the model making prediction beyond the original data date, two years into the future.
