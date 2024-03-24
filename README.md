@@ -4,7 +4,7 @@
 - [Technical Aspect](#technical-aspect)
 - [Installation](#installation)
 - [Model Implementation](#model-implementation)
-- [Model Result](#model-implementation)
+- [Model Prediction](#model-prediction)
 - [Report & Codes](#report--codes)
 
 ## Overview
@@ -63,7 +63,7 @@ The model diagnostic evaluates the residual training data to assess linearity an
 
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/586adfae-2c0e-4c51-8fc6-db1d86ee6f40)
 
-
+### Model Result 
 ## Report & Codes
 The final [Report and codes for this project can be found HERE](insert_link_here)
 
