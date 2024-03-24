@@ -1,8 +1,9 @@
 ## Table of Content
 - [Overview](#overview)
 - [Motivation](#motivation)
-- [Technical Aspect](#technical-aspect)
 - [Installation](#installation)
+- [Technical Aspect](#technical-aspect)
+- [Model Implementation and Result](#model-implementation-and-result)
 - [Report & Codes](#report--codes)
 
 ## Overview
