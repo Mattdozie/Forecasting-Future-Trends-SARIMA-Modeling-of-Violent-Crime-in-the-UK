@@ -40,11 +40,14 @@ The ADF test is utilized to objectively assess the need for differencing to rend
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/f5e05a44-e1ca-4d3f-9c4a-bca3fbb258f5)
 
 
-
-
-
 ### Seasonal ARIMA Model
 The Seasonal ARIMA model, designed to manage seasonality in time series data, was applied for forecasting UK crime rates. Despite its simplicity and interpretability, SARIMA's requirement for significant data amounts and assumption of linear relationships were noted limitations.
+
+The model diagnostic evaluates the residual training data to assess linearity and normal distribution. Four plots are generated: Standardized residual plot, Q-Q plot, Histogram, and estimated density plot, alongside a correlation plot. The analysis confirms the absence of seasonality in the standardized residual plot, while histogram and density plots closely resemble a normal distribution. Q-Q plot demonstrates a linear relationship. Summary statistics, including Prob(Q) and Prob(JB), indicate acceptance of the null hypothesis, affirming a normal distribution of residuals.
+
+
+![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/586adfae-2c0e-4c51-8fc6-db1d86ee6f40)
+
 
 ## Installation
 <div>
