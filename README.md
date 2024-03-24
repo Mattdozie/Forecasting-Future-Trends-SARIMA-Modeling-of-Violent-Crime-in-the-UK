@@ -23,9 +23,14 @@ Filtered and extracted data subsets were transformed into Pandas dataframes to f
 [Find the Data for this project HERE](https://data.police.uk/)
 
 ### Time Series Analysis
-Utilizing time series modeling, the project assessed claims regarding UK crime rates. Time series plots, decomposition, and statistical tests were employed to establish stationarity. Augmented Dickey-Fuller test and autocorrelation analysis guided model parameter determination for the Seasonal ARIMA model.
+A time series analysis was conducted to evaluate crime rate trends in the UK. The analysis revealed a decreasing trend in violent crime rates over time, with occasional spikes. To prepare the data for statistical modeling, stationarity was ensured through differencing. The Augmented Dickey-Fuller test confirmed the need for differencing to achieve stationarity
 
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/e18550d5-275b-4a5c-9361-20db3e01779b)
+
+
+![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/f5e05a44-e1ca-4d3f-9c4a-bca3fbb258f5)
+
+![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/8928e772-fbd5-42ca-b72f-2dfd0c2bf713)
 
 
 ### Seasonal ARIMA Model
