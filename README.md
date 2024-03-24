@@ -29,6 +29,8 @@ To initialize the data pipeline, the crime data was downloaded from the above-me
 <img src="https://img.shields.io/badge/-itertools-007ACC?&style=for-the-badge" />
 </div>
 
+## Model Implementation
+
 ### Data Processing
 The dataset comprising 65,078,250 rows and 12 columns, collected from December 2010 to April 2013, underwent meticulous review and manipulation using appropriate Pyspark functions. Missing values, identified as NA, were dropped to prevent bias in subsequent analyses.
 
@@ -63,7 +65,8 @@ The model diagnostic evaluates the residual training data to assess linearity an
 
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/586adfae-2c0e-4c51-8fc6-db1d86ee6f40)
 
-### Model Result 
+### Model Prediction
+
 ## Report & Codes
 The final [Report and codes for this project can be found HERE](insert_link_here)
 
