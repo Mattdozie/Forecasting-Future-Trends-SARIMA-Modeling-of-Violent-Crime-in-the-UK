@@ -30,6 +30,7 @@ A time series analysis was conducted to evaluate crime rate trends in the UK. Th
 
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/f5e05a44-e1ca-4d3f-9c4a-bca3fbb258f5)
 
+
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/8928e772-fbd5-42ca-b72f-2dfd0c2bf713)
 
 
