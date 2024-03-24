@@ -1,8 +1,8 @@
 ## Table of Content
 - [Overview](#overview)
 - [Motivation](#motivation)
-- [Installation](#installation)
 - [Technical Aspect](#technical-aspect)
+- [Installation](#installation)
 - [Model Implementation and Result](#model-implementation-and-result)
 - [Report & Codes](#report--codes)
 
@@ -14,6 +14,19 @@ This project aims to employ Correlation, Regression, and Time Series analyses to
 
 ## Technical Aspect
 To initialize the data pipeline, the crime data was downloaded from the above-mentioned website and imported in a csv.gz format to a Sparksession using Jupyter notebook. A Sparksession allows for the creation of dataframes, registering dataframe tables and querying of tables using SQL in Pyspark.
+
+## Installation
+<div>
+<img src="https://img.shields.io/badge/-Spark_SQL-E25A1C?&style=for-the-badge&logo=Apache-Spark&logoColor=white" />
+<img src="https://img.shields.io/badge/-PySpark-E25A1C?&style=for-the-badge&logo=Apache-Spark&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Seaborn-388E3C?&style=for-the-badge&logo=Seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/-Matplotlib-377EB8?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=Pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?&style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/-Statsmodels-007ACC?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-itertools-007ACC?&style=for-the-badge" />
+</div>
 
 ### Data Processing
 The dataset comprising 65,078,250 rows and 12 columns, collected from December 2010 to April 2013, underwent meticulous review and manipulation using appropriate Pyspark functions. Missing values, identified as NA, were dropped to prevent bias in subsequent analyses.
@@ -49,19 +62,6 @@ The model diagnostic evaluates the residual training data to assess linearity an
 
 ![image](https://github.com/Mattdozie/Forecasting-Future-Trends-SARIMA-Modeling-of-Violent-Crime-in-the-UK/assets/100968289/586adfae-2c0e-4c51-8fc6-db1d86ee6f40)
 
-
-## Installation
-<div>
-<img src="https://img.shields.io/badge/-Spark_SQL-E25A1C?&style=for-the-badge&logo=Apache-Spark&logoColor=white" />
-<img src="https://img.shields.io/badge/-PySpark-E25A1C?&style=for-the-badge&logo=Apache-Spark&logoColor=white" />
-<img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white" />
-<img src="https://img.shields.io/badge/-Seaborn-388E3C?&style=for-the-badge&logo=Seaborn&logoColor=white" />
-<img src="https://img.shields.io/badge/-Matplotlib-377EB8?&style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=Pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?&style=for-the-badge&logo=OpenCV&logoColor=white" />
-<img src="https://img.shields.io/badge/-Statsmodels-007ACC?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-itertools-007ACC?&style=for-the-badge" />
-</div>
 
 ## Report & Codes
 The final [Report and codes for this project can be found HERE](insert_link_here)
