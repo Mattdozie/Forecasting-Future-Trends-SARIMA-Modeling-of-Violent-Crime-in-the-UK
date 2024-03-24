@@ -3,7 +3,8 @@
 - [Motivation](#motivation)
 - [Technical Aspect](#technical-aspect)
 - [Installation](#installation)
-- [Model Implementation and Result](#model-implementation-and-result)
+- [Model Implementation](#model-implementation)
+- [Model Result](#model-implementation)
 - [Report & Codes](#report--codes)
 
 ## Overview
